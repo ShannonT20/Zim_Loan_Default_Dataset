@@ -470,7 +470,7 @@ Shannon Tafadzwa Sikadi (2026).
 Zimbabwe Loan Default Prediction Dataset.
 Deep Learning Indaba X Zimbabwe 2026.
 License: CC-BY-4.0
-DOI: (add Zenodo DOI after publication)
+DOI: https://doi.org/10.5281/zenodo.20569260
 ```
 
 ## Contact

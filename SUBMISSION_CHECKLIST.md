@@ -24,5 +24,5 @@
 - [ ] Clearly state: Zimbabwe-calibrated; may not generalize across Africa without recalibration
 
 ## 4) After Publication
-- [ ] Add the Zenodo DOI to the citation section in README.md
+- [x] Add the Zenodo DOI to the citation section in README.md: https://doi.org/10.5281/zenodo.20569260
 - [ ] (Optional) Enable “Reserve DOI” before publishing, so you can include the DOI in any announcement post
